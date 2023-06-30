@@ -1,6 +1,7 @@
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sourav Ghosh</h1>
-<h3 align="center">A passionate frontend developer from Kolkata,India</h3>
+<h3 align="center">🙏🏻 Welcome to my Github profile!
+I am a frontend developer 🚀 I love building real world projects 😍, and most of them are Open source.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sourav8538&label=Profile%20views&color=0e75b6&style=flat" alt="sourav8538" /> </p>
 
