@@ -1,5 +1,5 @@
 [![MasterHead](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220416200936/Top-10-Front-End-Developer-Skills-That-You-Need-in-2022.png)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Sourav Ghosh</h1>
+<h1 align="center">Hi 👋,<p> I'm Sourav</p> </h1>
 <h3 align="center">🙏🏻 Welcome to my Github profile!
 I am a frontend developer 🚀 I love building real world projects 😍, and most of them are Open source.</h3>
 
@@ -7,11 +7,11 @@ I am a frontend developer 🚀 I love building real world projects 😍, and mos
 
 <p align="left"> <a href="https://twitter.com/i__souravghosh" target="blank"><img src="https://img.shields.io/twitter/follow/i__souravghosh?logo=twitter&style=for-the-badge" alt="i__souravghosh" /></a> </p>
 
-- 🔭 I’m currently working on  **Enterprise resource management**
+- 🔭 I’m currently working on  **Enterprise resource management PROJECT**
 
-- 🌱 I’m currently learning  **Reactjs, Nodejs**
+- 🌱 I’m currently learning  on **Reactjs, Nodejs, mongodb**
 
-- 💬 Ask me about   **Java, HTMl, CSS, software engineering**
+- 💬 Ask me about   **Java, HTMl, CSS,JavaScript software engineering**
 
 - 📫 How to reach me **souravghosh13.01.2019@gmail.com**
 
