@@ -12,7 +12,7 @@ I am a frontend developer 🚀 I love building real world projects 😍, and mos
 
 - 🌱 I’m currently learning  on **Reactjs, Nodejs, mongodb**
 
-- 💬 Ask me about   **Java, HTMl, CSS,JavaScript software engineering**
+- 💬 Ask me about   **Java, HTML, CSS,JavaScript, JDBC,Hibernate, software engineering**
 
 - 📫 How to reach me **souravghosh13.01.2019@gmail.com**
 
